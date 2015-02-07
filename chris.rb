@@ -1,3 +1,6 @@
+#2nd
+
+#1st
 for i in 1..100 do
   if i % 3 ==0 && i % 5 == 0
     puts "FizzBuzz"
